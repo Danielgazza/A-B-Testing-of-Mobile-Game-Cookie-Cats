@@ -7,3 +7,5 @@ to level 40 in this project. We will look specifically at the impact on player r
 ![cc_gates](https://user-images.githubusercontent.com/103642582/209238543-c05036ab-703a-45d6-9ba0-f95bc0c999b3.png)
 
 Check the report for the complete analysis and results.
+
+#Python, #A/B Testing
